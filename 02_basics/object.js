@@ -6,3 +6,15 @@ const course = {
 
 const {courseInstructor:instructor}=course
 console.log(instructor)
+{//ye json hai
+
+}
+[//ye bhi
+    {
+
+    },
+    {},
+    {
+
+    }
+]
